@@ -18,6 +18,9 @@ A general MRI DICOM to [BIDS](https://bids.neuroimaging.io/) converter GUI.
 * Pick a subject, include exam ID, and then match ID tags in both tables
 * click convert
 
+![](https://github.com/ABI-Animus-Laboratory/DCM2BIDS/blob/main/images/GUIimage.png)
+
+
 After converting, run "WriteDescriptionJSON" to make your dataset-description, fill in the blanks appropriate to your study.
 
 ## Some Notes
